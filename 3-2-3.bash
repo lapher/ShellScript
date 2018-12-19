@@ -22,9 +22,7 @@ do
 		echo "Please try again........."
 		echo ""
 		continue
-	fi
-
-	
+	fi	
 done
 
 #PW FUNCTION
