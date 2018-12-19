@@ -11,3 +11,4 @@ read -p "HOW fat are you? (kg): " varWeigth
 
 
 echo ""
+
