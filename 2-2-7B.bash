@@ -7,3 +7,4 @@ High=$(echo "scale=2;$1*$1/10000"| bc)
 BMI=$(echo "scale=2;$2/$High"|bc)
 echo "Your BMI is : $BMI "
 exit 0
+
