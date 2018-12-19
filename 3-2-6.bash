@@ -3,8 +3,6 @@
 #Write by: cc104 鄭景文 13 
 #Version: v0.0.0
 
-
-
 declare -a arrayANS
 declare -a arrayT
 declare -a arrayG
@@ -59,17 +57,7 @@ function GAME () {
     	arrayF[$numr]=99
     	arrayT[$xr]=$tokenR
 	done
-
-
-
-
-
-
 }
-
-
-
-
 
 #INPUT function
 function INPUT () {
@@ -106,9 +94,6 @@ function CHECK () {
 		done
 	done
 }
-
-
-
 
 #===================================================
 
