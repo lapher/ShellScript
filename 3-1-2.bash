@@ -3,9 +3,6 @@
 #Write By :   CC104  鄭景文  13
 #Version:
 
-
-
-
 x=1
 
 while [ $x -le 9 ]
