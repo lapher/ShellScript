@@ -1,5 +1,5 @@
 #!/bin/bash 
-#Description: 3-1-4(密碼驗證)
+#Description: 3-1-4(3次密碼驗證)
 #Write By :   CC104  鄭景文  13
 #Version:
 
