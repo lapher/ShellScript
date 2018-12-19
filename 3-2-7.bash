@@ -13,9 +13,6 @@ function RAN () {
 	let varANS=$RANDOM*10/32767
 }
 
-
-
-
 #RANDOM
 for (( y=0; y<=3; y=y+1 ))
 do	
