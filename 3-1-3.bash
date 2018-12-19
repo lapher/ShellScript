@@ -25,8 +25,6 @@ do
         echo "Sum : $varSum"
         break
     fi
-    
 done
-
 
 exit 0
